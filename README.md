@@ -99,4 +99,21 @@
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(56).pdf" style="text-decoration:none;">Building a Semantic Parser Overnight </a></li>                              
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(57).pdf" style="text-decoration:none;">Natural Language Acquisition and Grounding for Embodied Robotic Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(58).pdf" style="text-decoration:none;">Grounded Language Learning: Where Robotics and NLP Meet</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(59).pdf" style="text-decoration:none;">Grounding language acquisition by training semantic parsers using captioned videos</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(60).pdf" style="text-decoration:none;">A Short review of Symbol Grounding in Robotic and Intelligent Systems </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(61).pdf" style="text-decoration:none;">Tell Me Dave: Context-Sensitive Grounding of Natural Language to Manipulation Instructions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Language-Grounding-to-Vision-and-Control-Papers/blob/master/lg(62).pdf" style="text-decoration:none;"> Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding</a></li>
+ 
+
+
+
+
+
+
   </ul>
